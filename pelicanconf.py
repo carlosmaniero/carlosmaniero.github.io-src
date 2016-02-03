@@ -24,10 +24,9 @@ AUTHOR_FEED_RSS = None
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
-LINKS = []
 
 # Social widget
-SOCIAL = (
+LINKS = (
     ('GitHub', 'http://github.com/carlosmaniero'),
     ('Facebook', 'http://facebook.com/carlosmaniero'),
     ('Twitter', 'http://twitter.com/carlosmaniero'),
