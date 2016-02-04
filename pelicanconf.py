@@ -42,7 +42,7 @@ AUTHOR_BIO = 'Python Developer and an open source evangelist. ' \
              'Focused in web  development. ' \
              'Working with Django and Tornado for async web solutions. ' \
              'A lover of the Linux terminal and the creator of the Pygamii, ' \
-             'a ascii game engine written in Python.'
+             'an ascii game engine written in Python.'
 AUTHOR_LOCATION = 'São Paulo/Brazil'
 TWITTER_USERNAME = 'carlosmaniero'
 # Uncomment following line if you want document-relative URLs when developing
