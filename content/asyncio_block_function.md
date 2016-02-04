@@ -5,7 +5,7 @@ Tags: python, asyncio
 
 
 When we use concurrency, all [tasks](https://docs.python.org/3/library/asyncio-task.html) are running in the same thread. 
-When the `await` or `yield from` keyworks is used in the task, 
+When the `await` or `yield from` keywords is used in the task, 
 the task is suspended and the [EventLoop](https://docs.python.org/3/library/asyncio-eventloop.html) executes the next task.
 This will be occur until all tasks are completed.
 
