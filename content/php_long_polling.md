@@ -48,6 +48,7 @@ echo poll($_POST['cur_line']);
 ?>
 ```
 
+You can see the complete code [here](https://github.com/carlosmaniero/Php-long-polling)
 
 ---
 #### Old Post
