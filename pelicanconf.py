@@ -47,3 +47,6 @@ AUTHOR_LOCATION = 'São Paulo/Brazil'
 TWITTER_USERNAME = 'carlosmaniero'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+GOOGLE_ANALYTICS = 'UA-73329109-1'
+DISQUS_SITENAME = 'carlosmaniero-github-io.disqus.com'
